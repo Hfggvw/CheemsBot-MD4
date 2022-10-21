@@ -55,9 +55,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['201025663589'] //ur owner number
-global.ownername = "𝑩𝑶𝑻 𝑴𝑬𝑮𝑶🎻📍 ٫" //ur owner name
+global.ownername = "𝑲𝑬𝑵𝑮 𝑴𝑬𝑮𝑶🎻📍 ٫" //ur owner name
 global.ytname = "YT: mego" //ur yt chanel name
-global.socialm = "GitHub: mego" //ur github or insta name
+global.socialm = "mego_keng1: mego" //ur github or insta name
 global.location = "Egypt, Cairo, Aizawl" //ur location
 
 //bot bomdy 
@@ -69,7 +69,7 @@ global.websitex = "https://youtube.com/channel/UCbz80fa2qOsd60ecWXK16pQ" //ur we
 global.botscript = 'https://chat.whatsapp.com/LOtnaqbxiHU7A0T5RyTtfV' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣ ميجو الكينج ⍣" //ur sticker watermark packname
+global.packname = "⍣ آفجر بوت ستيكر  ⍣" //ur sticker watermark packname
 global.author = "⍣
 201025663589⍣" //ur sticker watermark author
 
